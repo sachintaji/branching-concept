@@ -5,5 +5,5 @@ class Student:
     def display(self):
         print("Student Name:", self.name)
 
-s1 = Student("Sachin")
+s1 = Student("rana sachin")
 s1.display()
